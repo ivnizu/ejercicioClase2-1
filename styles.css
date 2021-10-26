@@ -1,0 +1,20 @@
+body {
+    background: rgb(175, 175, 175);
+}
+
+.tarjetasInlineBlock{
+    margin: 30px;
+    max-width: 500px;
+    border: 2px solid black;
+    background: chocolate;
+    display: inline-block;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+div{
+    text-align: center;
+}
